@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+#added to ignore data files and IDE settings 
+*.csv
+*.db
+*.duckdb
+*.db.wal
+.idea
